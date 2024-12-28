@@ -11,4 +11,5 @@
 #docker.io/kubernetesui/dashboard-web:1.6.0
 #docker.io/apache/kafka:3.9.0
 #docker.io/jenkinsci/blueocean
-docker.io/jenkins/jenkins
+#docker.io/jenkins/jenkins
+node
