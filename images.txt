@@ -12,4 +12,6 @@
 #docker.io/apache/kafka:3.9.0
 #docker.io/jenkinsci/blueocean
 #docker.io/jenkins/jenkins
-node
+#node
+nacos/nacos-server
+
