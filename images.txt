@@ -4,14 +4,15 @@
 #xhofe/alist:latest
 #支持指定架构11
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/kubernetesui/dashboard-api:1.10.2
-docker.io/kubernetesui/dashboard-auth:1.2.3
-kong:3.8
-docker.io/kubernetesui/dashboard-metrics-scraper:1.2.2
-docker.io/kubernetesui/dashboard-web:1.6.1
+#docker.io/kubernetesui/dashboard-api:1.10.2
+#docker.io/kubernetesui/dashboard-auth:1.2.3
+#kong:3.8
+#docker.io/kubernetesui/dashboard-metrics-scraper:1.2.2
+#docker.io/kubernetesui/dashboard-web:1.6.1
 #docker.io/apache/kafka:3.9.0
 #docker.io/jenkinsci/blueocean
 #docker.io/jenkins/jenkins
 #node
-nacos/nacos-server
+#nacos/nacos-server
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
