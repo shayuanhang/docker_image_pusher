@@ -12,7 +12,8 @@
 #docker.io/apache/kafka:3.9.0
 #docker.io/jenkinsci/blueocean
 #docker.io/jenkins/jenkins
-node:22.14.0
+#node:22.14.0
 #nacos/nacos-server
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+phpmyadmin/phpmyadmin
 
