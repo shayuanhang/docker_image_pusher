@@ -13,7 +13,7 @@
 #docker.io/jenkinsci/blueocean
 #docker.io/jenkins/jenkins
 #node:22.14.0
-nacos/nacos-server:v2.5.1
+#nacos/nacos-server:v2.5.1
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #phpmyadmin/phpmyadmin
-
+docker.io/paketobuildpacks/builder-jammy-base
