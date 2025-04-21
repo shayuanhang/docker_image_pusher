@@ -16,4 +16,5 @@
 #nacos/nacos-server:v2.5.1
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #phpmyadmin/phpmyadmin
-docker.io/paketobuildpacks/builder-jammy-base
+#docker.io/paketobuildpacks/builder-jammy-base
+ghcr.io/coqui-ai/tts-cpu
