@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构11
 #--platform=linux/arm64 xiaoyaliu/alist
-docker.io/kubernetesui/dashboard-api:1.12.0
+#docker.io/kubernetesui/dashboard-api:1.12.0
 #docker.io/kubernetesui/dashboard-auth:1.2.4
 #kong:3.8
 #docker.io/kubernetesui/dashboard-metrics-scraper:1.2.2
@@ -18,3 +18,4 @@ docker.io/kubernetesui/dashboard-api:1.12.0
 #phpmyadmin/phpmyadmin
 #docker.io/paketobuildpacks/builder-jammy-base
 #ghcr.io/coqui-ai/tts-cpu
+wcjiang/reference
