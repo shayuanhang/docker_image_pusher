@@ -19,5 +19,6 @@
 #docker.io/paketobuildpacks/builder-jammy-base
 #ghcr.io/coqui-ai/tts-cpu
 #wcjiang/reference
-docker.elastic.co/elasticsearch/elasticsearch:9.0.0
-docker.elastic.co/kibana/kibana:9.0.0
+#docker.elastic.co/elasticsearch/elasticsearch:9.0.0
+#docker.elastic.co/kibana/kibana:9.0.0
+docker.elastic.co/beats/filebeat:9.0.0
