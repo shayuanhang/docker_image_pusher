@@ -22,4 +22,4 @@
 #docker.elastic.co/elasticsearch/elasticsearch:9.0.0
 #docker.elastic.co/kibana/kibana:9.0.0
 #docker.elastic.co/beats/filebeat:9.0.0
-apache/kafka:3.9.1
+apache/kafka:4.0.0
