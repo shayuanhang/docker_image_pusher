@@ -26,4 +26,4 @@
 #nacos/nacos-server:v3.0.1
 #zookeeper:3.9.3
 #prom/prometheus
-grafana/grafana-enterprise
+grafana/grafana-enterprise:12.0.0
