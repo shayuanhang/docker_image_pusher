@@ -26,4 +26,8 @@
 #nacos/nacos-server:v3.0.1
 #zookeeper:3.9.3
 #prom/prometheus
-grafana/grafana-enterprise:12.0.0
+prom/prometheus:v2.49.0
+grafana/loki:2.9.0
+grafana/promtail:2.0.0
+grafana/grafana:12.0.1
+grafana/tns-db:latest
