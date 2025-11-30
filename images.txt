@@ -12,4 +12,7 @@
 #mongo
 #neo4j:2025.06.2
 #stirlingtools/stirling-pdf
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+#registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+docker.io/openjdk:21-jre
+docker.io/openjdk:21-jdk
+docker.io/maven:3.9.11-jdk-21
