@@ -13,6 +13,4 @@
 #neo4j:2025.06.2
 #stirlingtools/stirling-pdf
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-docker.io/library/openjdk:21-jre
-docker.io/library/openjdk:21-jdk
-docker.io/library/maven:3.9.11-jdk-21
+docker.io/library/openjdk
